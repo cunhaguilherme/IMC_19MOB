@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC</string>
+
+    <string name="seu_imc">Seu IMC é: %1$s</string>
+    <string name="abaixo_peso">Só a capa do Batman!</string>
+    <string name="normal_peso">Só mais um na sociedade!</string>
+    <string name="acima_peso">Tá gordinho!</string>
+    <string name="obesidade_grau_i">Toma vergonha nessa cara!</string>
+    <string name="obesidade_grau_ii">Tá ficando irreversível!</string>
+    <string name="obesidade_grau_iii">FODEU!!!</string>
+</resources>
